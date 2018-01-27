@@ -1,0 +1,2 @@
+# TestStatePattern
+C#によるステートパターンのテスト
